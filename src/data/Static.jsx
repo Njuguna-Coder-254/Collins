@@ -26,8 +26,7 @@ export const works = [
     title: "Hospital Management System",
     imgUrl:hosi,
     tech: ["HTML", "Javascript", "CSS"],
-    workUrl:
-      "",
+   
     duration: "400",
   },
 
@@ -35,23 +34,21 @@ export const works = [
     title: "Garage management System",
     imgUrl: garage,
     tech: ["HTML", "CSS", "Bootstrap 5"],
-    workUrl:
-      "",
+    
     duration: "500",
   },
   {
     title: "Hotel Management System",
     imgUrl:hotel,
     tech: ["HTML", "CSS", "Boottsrap 5", "Jquery"],
-    workUrl: "",
+    
     duration: "600",
   },
   {
     title: "Travel app",
     imgUrl:travel,
-    tech: ["Flutter", "Figma", "Material UI"],
-    workUrl:
-      "https://www.behance.net/gallery/150189805/MAKLTI-Food-Delivery-App",
+    tech: ["HTML5", "CSS", "JavaScript"],
+    
     duration: "700",
   },
 ];
@@ -63,7 +60,7 @@ export const experiences = [
     company: "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
     position: "Internal Attachment",
     description:
-      "Developing a flight booking management system is a complex task that requires the integration of various technologies and careful planning. It's essential to work with experienced software developers and consider factors like scalability and system reliability to handle a large number of bookings and users.",
+      "Developed a bus booking website. It's essential to work with experienced software developers and consider factors like scalability and system reliability to handle a large number of bookings and users.",
   },
   {
     date: "May 2023-August 2023",

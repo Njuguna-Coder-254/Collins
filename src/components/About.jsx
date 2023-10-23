@@ -42,7 +42,7 @@ const About = () => {
           <div className="flex flex-col justify-center">
             {/* Introduction */}
             <p className="text-xl font-bold pb-2 text-[#00FFCA]">
-              I am Collins Mwiti
+              I am Calvince Obondi
             </p>
             {/* Description */}
             <p className="text-sm leading-7">

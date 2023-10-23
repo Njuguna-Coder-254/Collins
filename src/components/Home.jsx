@@ -12,7 +12,7 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-gray-50 text-lg">Hi, I am</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#00FFCA]">
-    Collins Mwiti
+    Calvince Obondi
         </h1>
         <div>
           <h2 className="text-2xl sm:text-4xl font-bold text-zinc-50 pt-2 flex">
@@ -23,7 +23,7 @@ const Home = () => {
               }}
               onInit={(typewriter) => {
                 typewriter
-                  .typeString("Software Developer")
+                  .typeString("Web Developer")
                   .pauseFor(1000)
                   .deleteAll()
                   .typeString("")
@@ -33,7 +33,7 @@ const Home = () => {
           </h2>
         </div>
         <p className="text-gray-300 py-4 leading-8">
-        Full-Stack Web & App Developer with ability to learn and collaborate in rapidly changing environments and compositions.
+        Full-Stack Web Developer with ability to learn and collaborate in rapidly changing environments and compositions.
         </p>
         <div className="mt-4 mx">
         <button  className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#00FFCA] hover:border-[#00FFCA] rounded-sm hover:text-[#3A1078] font-semibold"
@@ -46,7 +46,7 @@ const Home = () => {
               <button
                 className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#00FFCA] hover:border-[#00FFCA] rounded-sm hover:text-[#3A1078] font-semibold"
               >
-                 <a href='https://eu.docworkspace.com/d/sII-3xJShAaHvrqkG?sa=e1&st=0t' >Resume</a>
+                 <a href='https://docs.google.com/document/d/1B54_dox9OzKUISbFDxlM_Xq0ZPd87-Nj/edit' >Resume</a>
                 
               </button>
             </div>

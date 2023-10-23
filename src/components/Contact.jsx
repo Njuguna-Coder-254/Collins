@@ -24,7 +24,7 @@ const Contact = () => {
         {/* Description */}
         <p className="py-6">
           Submit the form below or send me an email -{" "}
-          <span className="font-bold">collinsmwiti2000@gmail.com</span>
+          <span className="font-bold">obondi.calvince19@students.dkut.ac.ke</span>
         </p>
 
         {/* Form */}
