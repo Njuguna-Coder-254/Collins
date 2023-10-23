@@ -142,7 +142,7 @@ const Navbar = () => {
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
             <a
-              href="#"
+              href="home"
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Linkedin <FaLinkedin size={30} />
@@ -151,7 +151,7 @@ const Navbar = () => {
 
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
             <a
-              href="#"
+              href="home"
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Github <FaGithub size={30} />
